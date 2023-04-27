@@ -1,0 +1,5 @@
+D:\SEMESTR_4\Platformy_Technologiczne\NET\lab4\lab4\obj\Debug\netcoreapp3.1\lab4.csprojAssemblyReference.cache
+D:\SEMESTR_4\Platformy_Technologiczne\NET\lab4\lab4\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\SEMESTR_4\Platformy_Technologiczne\NET\lab4\lab4\obj\Debug\netcoreapp3.1\App.g.cs
+D:\SEMESTR_4\Platformy_Technologiczne\NET\lab4\lab4\obj\Debug\netcoreapp3.1\lab4_MarkupCompile.cache
+D:\SEMESTR_4\Platformy_Technologiczne\NET\lab4\lab4\obj\Debug\netcoreapp3.1\lab4_MarkupCompile.lref

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "lab1": {
+      "commandName": "Project",
+      "commandLineArgs": "D://SEMESTR_4//Platformy_Technologiczne//JAVA//pt_lab1"
+    }
+  }
+}

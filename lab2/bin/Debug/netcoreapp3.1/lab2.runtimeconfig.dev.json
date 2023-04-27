@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lydka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lydka\\.nuget\\packages"
+    ]
+  }
+}
