@@ -1,4 +1,5 @@
-# TP_NET
+# Technology Platforms .NET
+
 ## Simple projects made for my CS classes about .NET
 
 ## There are three projects aiming at different aspects of .NET framework:
